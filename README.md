@@ -1,7 +1,7 @@
 # React – A JavaScript library for building user interfaces
 
 By [Li Yihan](https://github.com/liyihann), [Cao Zixuan](https://github.com/caozixuan), [Cai Hongyang](https://github.com/LuvMeReal), [Zhang Dake]()  
-åå
+
 *Wuhan University*
 
 ## Table of contents
