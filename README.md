@@ -9,10 +9,10 @@ By [Li Yihan](https://github.com/liyihann), [Cao Zixuan](https://github.com/caoz
 - [Features](#features)
 - [Stakeholders](#stakeholders)
 - [Integrators](#integrators)
-- [Context view](#context-view)
+- [Context View](#context-view)
 - [Development View](#development-view)
 - [Functional View](#functional-view)
-- [Performance and scalability](#performance-and-scalability)
+- [Performance and Scalability](#performance-and-scalability)
 - [Conclusion](#conclusion)
 - [References](#references)
 
@@ -27,13 +27,13 @@ By [Li Yihan](https://github.com/liyihann), [Cao Zixuan](https://github.com/caoz
 
 ## Integrators
 
-## Context view
+## Context View
 
-## Development view
+## Development View
 
 ## Functional View
 
-## Performance and scalability
+## Performance and Scalability
 
 ## Conclusion
 
